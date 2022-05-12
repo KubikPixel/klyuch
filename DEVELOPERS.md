@@ -20,4 +20,4 @@
 
 ---
 
-👨‍💻 code, build & host with ❤️  in Switzerland 🇨🇭
+👨‍💻 code, build & host with ❤️ by [KubikPixel](https://thunix.net/~kubikpixel/) in Switzerland 🇨🇭

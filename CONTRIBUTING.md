@@ -16,6 +16,8 @@
 
 ## Donate
 
+[![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay)](https://liberapay.com/KubikPixel)
+
 ## Spread
 
 Tell about this project to others and friends...

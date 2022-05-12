@@ -2,10 +2,9 @@
 
 > Your trusted E2EE escrow service for your digital assets.
 
-
 [![Latest Release](https://gitlab.com/klyuch/klyuch/-/badges/release.svg)](https://gitlab.com/klyuch/klyuch/-/releases)
-[![pipeline status](https://gitlab.com/klyuch/klyuch/badges/main/pipeline.svg)](https://gitlab.com/klyuch/klyuch/-/commits/main)
-[![coverage report](https://gitlab.com/klyuch/klyuch/badges/main/coverage.svg)](https://gitlab.com/klyuch/klyuch/-/commits/main)
+[![pipeline status](https://gitlab.com/klyuch/klyuch/badges/%{default_branch}/pipeline.svg)](https://gitlab.com/klyuch/klyuch/-/commits/%{default_branch})
+[![coverage report](https://gitlab.com/klyuch/klyuch/badges/i%{default_branch}/coverage.svg)](https://gitlab.com/klyuch/klyuch/-/commits/%{default_branch})
 [![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay)](https://liberapay.com/KubikPixel)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000293781?color=blue&domain=https%3A%2F%2Fchaos.social&style=flat&logo=mastodon)](https://chaos.social/@kubikpixel)
 
@@ -62,7 +61,7 @@ mandate.
 ### Contribute
 
 If you are a developer or like to translate or donete something to this project
-then see more about in the [CONTRIBUTE.md](CONTRIBUTE.me) file for more
+then see more about in the [CONTRIBUTING.md](CONTRIBUTING.me) file for more
 information.
 
 ## License

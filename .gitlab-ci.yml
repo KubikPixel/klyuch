@@ -1,7 +1,7 @@
-image: "rust:latest"
+# image: "rust:latest"
 
-services:
-  - postgres:latest
+# services:
+#  - postgres:latest
 
 stages:
   - build
