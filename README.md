@@ -9,6 +9,13 @@ it - better be prepared to this.
 For a detailed information see the [klyu.ch](https://klyu.ch/help/) help section
 for a step by step and also a 101 instruction to setup your mandate.
 
+## Index
+
+* [What klyu.ch is](what_klyuch_is)
+* [Instroduction](introducion)
+* [How it works](how_it_works)
+* [...](#)
+
 ## What klyu.ch is
 
 ### Introduction
@@ -44,6 +51,12 @@ for a step by step and also a 101 instruction to setup your mandate.
 * [ ] E2EE
 * [ ] ...
 
+### Contribute
+
+If you are a developer or like to translate or donete something to this project
+then see more about in the [CONTRIBUTE.md](CONTRIBUTE.me) file for more
+information.
+
 ## License
 
 This project is licensed under the
@@ -68,4 +81,4 @@ limitations under the License.
 
 ---
 
-👨‍💻 code, build & host with ❤️ in Switzerland 🇨🇭
+👨‍💻 code, build & host with ❤️  in Switzerland 🇨🇭
