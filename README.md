@@ -2,12 +2,20 @@
 
 > Your trusted E2EE escrow service for your digital assets.
 
+
+[![Latest Release](https://gitlab.com/klyuch/klyuch/-/badges/release.svg)](https://gitlab.com/klyuch/klyuch/-/releases)
+[![pipeline status](https://gitlab.com/klyuch/klyuch/badges/main/pipeline.svg)](https://gitlab.com/klyuch/klyuch/-/commits/main)
+[![coverage report](https://gitlab.com/klyuch/klyuch/badges/main/coverage.svg)](https://gitlab.com/klyuch/klyuch/-/commits/main)
+[![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay)](https://liberapay.com/KubikPixel)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/000293781?color=blue&domain=https%3A%2F%2Fchaos.social&style=flat&logo=mastodon)](https://chaos.social/@kubikpixel)
+
 Any time something happans, most it is good but sometames we don't espected and
 ist a verry bad thing. This isn't the happy part of your life but is a part of
 it - better be prepared to this.
 
-For a detailed information see the [klyu.ch](https://klyu.ch/help/) help section
-for a step by step and also a 101 instruction to setup your mandate.
+For a detailed information see the [klyu.ch](https://klyu.ch/doc/)
+documentation for a step by step and also a 101 instruction to setup your
+mandate.
 
 ## Index
 

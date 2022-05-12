@@ -2,7 +2,13 @@
 name = "klyuch"
 version = "0.1.0"
 edition = "2021"
-author = "KubikPixel"
+authors = ["KubikPixel <kubikpixel@dismail.de>"]
+license = "Apache-2.0"
+description = "Your trusted E2EE escrow service for your digital assets."
+keywords = ["escrow", "e2ee", "assets", "encryption", "vault" ]
+readme = "README.md"
+documentation = "https://klyu.ch/doc/"
+repository = "https://gitlab.com/klyuch/klyuch.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
