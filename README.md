@@ -2,11 +2,12 @@
 
 > Your trusted E2EE escrow service for your digital assets.
 
-[![Latest Release](https://gitlab.com/klyuch/klyuch/-/badges/release.svg)](https://gitlab.com/klyuch/klyuch/-/releases)
-[![pipeline status](https://gitlab.com/klyuch/klyuch/badges/%{default_branch}/pipeline.svg)](https://gitlab.com/klyuch/klyuch/-/commits/%{default_branch})
-[![coverage report](https://gitlab.com/klyuch/klyuch/badges/i%{default_branch}/coverage.svg)](https://gitlab.com/klyuch/klyuch/-/commits/%{default_branch})
-[![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay)](https://liberapay.com/KubikPixel)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/000293781?color=blue&domain=https%3A%2F%2Fchaos.social&style=flat&logo=mastodon)](https://chaos.social/@kubikpixel)
+[![GitLab Release](https://img.shields.io/gitlab/v/release/klyuch?logo=rust&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/releases)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline-status/klyuch?branch=mockup&logo=gitlab&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/commits/mockup)
+[![Gitlab code coverage](https://img.shields.io/gitlab/coverage/kubikpixel/klyuch/mackup?logo=gitlab&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/commits/mockup)
+[![Matrix](https://img.shields.io/matrix/klyuch:tchncs.de?server_fqdn=tchncs.de&logo=matrix&style=flat-square)](https://matrix.to/#/#klyuch:tchncs.de)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/000293781?color=blue&domain=https%3A%2F%2Fchaos.social&logo=mastodon&style=flat-square)](https://chaos.social/@kubikpixel)
+[![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay&style=flat-square)](https://liberapay.com/KubikPixel)
 
 Any time something happans, most it is good but sometames we don't espected and
 ist a verry bad thing. This isn't the happy part of your life but is a part of
