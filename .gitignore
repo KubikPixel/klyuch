@@ -35,3 +35,11 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+# Environment files
+.env
+
+# Project files
+**/*.vym
+**/*.od?
+**/*.pdf

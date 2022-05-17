@@ -5,6 +5,7 @@
 [![GitLab Release](https://img.shields.io/gitlab/v/release/klyuch?logo=rust&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/releases)
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline-status/klyuch?branch=mockup&logo=gitlab&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/commits/mockup)
 [![Gitlab code coverage](https://img.shields.io/gitlab/coverage/kubikpixel/klyuch/mackup?logo=gitlab&style=flat-square)](https://gitlab.com/klyuch/klyuch/-/commits/mockup)
+
 [![Matrix](https://img.shields.io/matrix/klyuch:tchncs.de?server_fqdn=tchncs.de&logo=matrix&style=flat-square)](https://matrix.to/#/#klyuch:tchncs.de)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000293781?color=blue&domain=https%3A%2F%2Fchaos.social&logo=mastodon&style=flat-square)](https://chaos.social/@kubikpixel)
 [![Liberapay](https://img.shields.io/liberapay/gives/KubikPixel.svg?logo=liberapay&style=flat-square)](https://liberapay.com/KubikPixel)
@@ -13,16 +14,9 @@ Any time something happans, most it is good but sometames we don't espected and
 ist a verry bad thing. This isn't the happy part of your life but is a part of
 it - better be prepared to this.
 
-For a detailed information see the [klyu.ch](https://klyu.ch/doc/)
+For a detailed information see the [klyu.ch](https://doc.klyu.ch/)
 documentation for a step by step and also a 101 instruction to setup your
 mandate.
-
-## Index
-
-* [What klyu.ch is](what_klyuch_is)
-* [Instroduction](introducion)
-* [How it works](how_it_works)
-* [...](#)
 
 ## What klyu.ch is
 

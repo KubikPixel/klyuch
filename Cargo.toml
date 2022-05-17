@@ -5,12 +5,14 @@ edition = "2021"
 authors = ["KubikPixel <kubikpixel@dismail.de>"]
 license = "Apache-2.0"
 description = "Your trusted E2EE escrow service for your digital assets."
-keywords = ["escrow", "e2ee", "assets", "encryption", "vault" ]
+keywords = ["web", "service", "escrow", "e2ee", "assets", "encryption", "vault" ]
 readme = "README.md"
 homepage = "https://klyu.ch"
-documentation = "https://klyu.ch/doc"
-repository = "https://gitlab.com/klyuch/klyuch.git"
+documentation = "https://doc.klyu.ch"
+repository = "https://gitlab.com/kubikpixel/klyuch.git"
 
 [dependencies]
 actix-web = "4"
-# sea-orm = { version = "^0", features = [ "sqlx-postgres", "runtime-actix-rustls", "macros" ] }
+jsonwebtoken = "8"
+serde = { version = "1.0", features = ["derive"] }
+sea-orm = { version = "^0", features = [ "sqlx-postgres", "runtime-actix-rustls", "macros" ] }
